@@ -1,0 +1,3 @@
+rootProject.name = 'learnitly'
+
+include ':app'
